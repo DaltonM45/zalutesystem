@@ -1,0 +1,47 @@
+.login{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 160px;
+}
+
+
+.formul-enter {
+    width: 400px;
+}
+.formul-enter .tm{
+    font-family: "Raleway";
+    text-align: center;
+    margin-bottom: 32px;
+}
+.formul-enter .form-group .ipt{
+
+} 
+
+
+.formul-enter .ig-e .bt-e{
+    width: 100%;
+    background: #1B998B;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.cajita{
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+    background: rgb(119, 42, 42);
+}
+
+
+@media screen and (max-width: 400px){
+
+    .formul-enter {
+        width: 90%;
+    }
+
+
+}

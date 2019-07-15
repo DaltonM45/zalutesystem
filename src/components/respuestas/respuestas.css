@@ -1,0 +1,53 @@
+.notas-n{
+    border: solid 1px rgba(0, 0, 0, 0.12);
+    border-radius: 3px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 1);
+    margin-bottom: 12px;
+    padding: 15px;
+}
+.notas-n .note-head{
+    margin-bottom: 12px;
+}
+.notas-n .note-head span .icon-x{
+    font-size: 30px;
+    color: #BB0A21;
+}
+.notas-n .note-head span .icon-x:hover{
+    cursor: pointer;
+}
+
+.contenido-respuestas{
+   margin-top: 22px;
+}
+
+.tem{
+   
+    background: #0C998B;
+}
+
+.xnx-f{
+    
+    width: 90%;
+    margin: auto;
+}
+.tem .topic{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tem .topic .zs h2{
+    color: #fff;
+}
+.tem .topic .bt .cs{
+    background-color: #fff;
+    color: #BA3B46;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-top:12px;
+}
